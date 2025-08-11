@@ -5,9 +5,6 @@
 <p align="left">Bem-vindo ao meu perfil! 🚀 Aqui você vai encontrar projetos, experimentos e talvez até alguns bugs curiosos. A cada dia eu melhoro em melhorar e transformar café em código. Bora trocar ideia?</p>
 
 
-https://github.com/user-attachments/assets/faa6a8ca-e0e9-41e5-a6cd-31c5a1f77afa
-
-
 ###
 
 <h2 align="left">Sobre</h2>
